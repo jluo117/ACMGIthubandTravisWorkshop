@@ -3,4 +3,3 @@ before_install:
     -   sudo apt-get update
 script:
     -   python3 test.py
-	-	echo "Test Done"

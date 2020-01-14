@@ -1,4 +1,4 @@
-from fib import *
+from fib import Fibonacci
 import unittest
 print(Fibonacci(10))
 class TestStringMethods(unittest.TestCase):
